@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2021040614", "2021040614.csproj", "{C9850836-AE46-4BD9-8858-0AD37630CB1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chestnut_qrcode", "chestnut_qrcode\chestnut_qrcode.csproj", "{04C77C17-AF4C-4D52-AABF-6160F10EB239}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "2021040614-安装包", "..\2021040614-安装包\2021040614-安装包.vdproj", "{8F0DA0DA-4DBD-4284-9C4C-9B6B3FDA3081}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9850836-AE46-4BD9-8858-0AD37630CB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9850836-AE46-4BD9-8858-0AD37630CB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9850836-AE46-4BD9-8858-0AD37630CB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9850836-AE46-4BD9-8858-0AD37630CB1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C77C17-AF4C-4D52-AABF-6160F10EB239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C77C17-AF4C-4D52-AABF-6160F10EB239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C77C17-AF4C-4D52-AABF-6160F10EB239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C77C17-AF4C-4D52-AABF-6160F10EB239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0DA0DA-4DBD-4284-9C4C-9B6B3FDA3081}.Debug|Any CPU.ActiveCfg = Debug
+		{8F0DA0DA-4DBD-4284-9C4C-9B6B3FDA3081}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ABE52A2-94DE-41D7-9A34-2C8E673AFBFF}
+	EndGlobalSection
+EndGlobal
