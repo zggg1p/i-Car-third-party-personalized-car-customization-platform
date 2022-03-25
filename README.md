@@ -1,4 +1,5 @@
 # i-car
+[![DOI](https://zenodo.org/badge/371340324.svg)](https://zenodo.org/badge/latestdoi/371340324)
 # 简介  
 First Prize of Shanghai Computer Application Ability Competition, Second Prize of China Student Computer Design Competition  
   This work (i-car third-party personalized car customization platform) is an effective attempt and solution based on the fact that with the continuous improvement of social productivity and technology, consumer demand is becoming more and more personalized and diversified, and the existing car purchase methods or platforms are insufficient to meet consumer demand. The C2B car personalization service of this work breaks the traditional car purchase mode and fills the gap of third-party customization platform for high-end products. According to user information, analyzing user needs, analyzing the habits and preferences of users in car selection and customization, continuously optimizing the customization process and products, and providing users with a more intelligent matching experience. At the same time, it provides sales data for merchants to further develop sales plans.  
