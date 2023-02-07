@@ -135,7 +135,7 @@ l、本合同生效后，一方不履行合同的，应依法承担违约责任�
                 SmtpClient smtpclient = new SmtpClient();
                 smtpclient.DeliveryMethod = SmtpDeliveryMethod.Network;
                 smtpclient.Host = "smtp.qq.com";
-                smtpclient.Credentials = new System.Net.NetworkCredential("1158863591@qq.com", "oxlmqrjhozczjiaj");
+                smtpclient.Credentials = new System.Net.NetworkCredential("自己的邮箱", "oxlmqrjhozczjiaj");
                 try
                 {
                     smtpclient.Send(mymail);
@@ -182,7 +182,7 @@ l、本合同生效后，一方不履行合同的，应依法承担违约责任�
             for (int i = 0; i < 1; i++)
             {
                 MailMessage mymail = new MailMessage();
-                mymail.From = new System.Net.Mail.MailAddress("1158863591@qq.com");
+                mymail.From = new System.Net.Mail.MailAddress("自己的邮箱");
                 mymail.To.Add(Class1.邮箱);
                 mymail.Subject = "上汽集团购车合同";
                 mymail.Body = @"购车合同
